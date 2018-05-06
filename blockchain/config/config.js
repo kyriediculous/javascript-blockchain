@@ -1,0 +1,11 @@
+const DIFFICULTY = 3
+const BLOCK_TIME = 3000 //3 seconds
+const INITIAL_BALANCE = 100
+const BLOCK_REWARD = 20
+
+module.exports = {
+  DIFFICULTY,
+  BLOCK_TIME,
+  INITIAL_BALANCE,
+  BLOCK_REWARD
+}
